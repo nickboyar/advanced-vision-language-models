@@ -28,7 +28,13 @@
 ## Выбор моделей
 
 В базовом приближении были выбраны 3 модели:
+
 Dalle-2
+
 Imagen 
+
 Stable-diffusion
-Ссылка на презентацию по Imagen https://drive.google.com/drive/folders/1LWLOgUjsunakFROwQUlSiYzSUs9gOp-m?usp=drive_link
+
+Ссылка на презентацию по Imagen:
+
+https://drive.google.com/drive/folders/1LWLOgUjsunakFROwQUlSiYzSUs9gOp-m?usp=drive_link
